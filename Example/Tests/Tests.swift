@@ -1,5 +1,4 @@
 import XCTest
-import SDKImageView
 
 class Tests: XCTestCase {
     
