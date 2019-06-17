@@ -1,0 +1,16 @@
+PODS:
+  - SDKImageView (0.1.0)
+
+DEPENDENCIES:
+  - SDKImageView (from `../`)
+
+EXTERNAL SOURCES:
+  SDKImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDKImageView: ac6acb287259f5348d5b9f158b8103bf0d566f0e
+
+PODFILE CHECKSUM: fa210d139877e58f3998ad6f477fbec4ccc31508
+
+COCOAPODS: 1.5.3
