@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SDKImageView_Example' do
+  pod 'SDKImageView', :path => '../'
+
+  target 'SDKImageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
