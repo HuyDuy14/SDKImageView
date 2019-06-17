@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SDKImageView'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'SDKImageView is a cocoapods that extends the UIImageView class'
   s.swift_version    = '5.0'
   
