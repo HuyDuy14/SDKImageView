@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SDKImageView'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'SDKImageView is a cocoapods that extends the UIImageView class'
   s.swift_version    = '5.0'
   
@@ -31,7 +31,7 @@ DESC
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SDKImageView/Classes/*.swift'
+  s.source_files = 'SDKImageView/Classes/ExtensionImage.swift'
   
   # s.resource_bundles = {
   #   'SDKImageView' => ['SDKImageView/Assets/*.png']
